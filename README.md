@@ -1,5 +1,3 @@
-# This article explain how you can easily deploy your CloudHealth agent using System Manager and ensure compliance of your installation using AWS State Manager.
-
 At the end of the article you will have achieved the following goals:
 * Deploy CloudHealth agent Package on all platforms (Windows, Amazon Linux, Ubuntu)
 * Control and manage the correct state of your instances making sure CloudHealth agent is deployed everywhere on any instances even the new ones
