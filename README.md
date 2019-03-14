@@ -103,7 +103,8 @@ Ex:     "version": "1.0",
 ## 2. Upload your Package in S3 and then in AWS System Manager Distributor
 
 **2.1.	Simply create a bucket and upload all your files to the S3 bucket, you should end-up with something like this**
- 
+
+ ![bucket](/img/bucket.png)
 
 **2.2.	Now create you package in Distributor**
 
